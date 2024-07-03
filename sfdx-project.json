@@ -2,7 +2,11 @@
   "packageDirectories": [
     {
       "path": "force-di",
-      "default": true
+      "default": true,
+      "package": "force-di",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": "Dependency Injection Framework for Salesforce"
     }
   ],
   "namespace": "",
