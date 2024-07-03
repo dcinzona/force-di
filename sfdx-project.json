@@ -10,6 +10,10 @@
     }
   ],
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "61.0"
+  "sfdcLoginUrl": "https://controlledsettinggcptestorg.my.salesforce.com",
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "force-di": "0Ho82000000000LCAQ",
+    "force-di@0.1.0-3": "04t820000000S2VAAU"
+  }
 }
