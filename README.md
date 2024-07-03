@@ -1,6 +1,14 @@
 # Force DI
 
+
 Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime. 
+
+Installation Info                                                                                                                            
+-----------------
+
+Check releases for the latest version of the library and installation links: 
+https://github.com/dcinzona/force-di/releases
+
 
 Documentation
 -------------
