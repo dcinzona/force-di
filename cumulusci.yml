@@ -23,3 +23,11 @@ tasks:
     run_tests:
         options:
             required_org_code_coverage_percent: 75
+
+    create_package_version:
+      options:
+        create_unlocked_dependency_packages: True
+
+    deploy:
+      options:
+        path: force-di
